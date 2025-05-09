@@ -2,5 +2,26 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.5",
     "tailwindcss": "^4.1.5"
-  }
+  },
+  "name": "amazon1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhageshwar111/Amazon1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhageshwar111/Amazon1/issues"
+  },
+  "homepage": "https://github.com/Bhageshwar111/Amazon1#readme"
 }
