@@ -1,8 +1,8 @@
 
             let data=[
                 {title:"Continue shopping deals",img1:"image/Main photo.jpg",img2:"image/Phone1.jpg",img3:"image/Phone2.jpg",img4:"image/Phone3.jpg",text1:"Phone 1",text2:"Phone 2",text3:"Phone 3",text4:"Phone 4",link:"See all deals"},
-                {title:"Appliances for your home | Up to 55% off",img1:"",img2:"",img3:"",img4:"",text1:"Air conditioners",text2:"Refrigerators",text3:"Microwaves",text4:"Washing macchines",link:"See more"},
-                {title:"Revamp your home in style",img1:"",img2:"",img3:"",img4:"",text1:"Cushion covers, bedsheets & more",text2:"Figurines, vases & more",text3:"Home storage",text4:"Lighting solutions",link:"Explore all"}
+                {title:"Appliances for your home | Up to 55% off",img1:"image/AC photo.jpg",img2:"image/Refrigerator.jpg",img3:"image/Microwave photo.jpg",img4:"image/Microwave photo.jpg",text1:"Air conditioners",text2:"Refrigerators",text3:"Microwaves",text4:"Washing macchines",link:"See more"},
+                {title:"Revamp your home in style",img1:"image/",img2:"image/",img3:"image/",img4:"image/",text1:"Cushion covers, bedsheets & more",text2:"Figurines, vases & more",text3:"Home storage",text4:"Lighting solutions",link:"Explore all"}
             ]
 
             let bag="";
